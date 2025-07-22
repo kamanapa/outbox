@@ -1,0 +1,19 @@
+**/ *.iml
+*.iml
+.idea
+.idea/
+target/
+logs/
+data/
+
+# File-based project format
+*.iws
+
+# IntelliJ
+out/
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
